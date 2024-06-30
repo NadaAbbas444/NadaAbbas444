@@ -9,16 +9,6 @@ I am a Robotics Engineer with a passion for developing autonomous systems and AI
 ## 🌱 I’m currently learning ...
 - ROS2.
 
-## 👯 I’m looking to collaborate on ...
-- Innovative robotics projects, especially those involving UAVs and multi-robot systems.
-- Research projects focusing on AI and machine learning applications in robotics.
-- Open-source initiatives to improve robotic perception and navigation.
-
-## 🤔 I’m looking for help with ...
-- Advanced optimization techniques for real-time robotic systems.
-- Integrating novel sensor modalities into existing robotic frameworks.
-- Exploring new collaborative research opportunities in robotics and AI.
-
 ## 💬 Ask me about ...
 - Autonomous systems and multi-robot coordination.
 - Deep learning applications in robotics.
