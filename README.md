@@ -1,10 +1,9 @@
 <h1 align="center"><b>Hi, I'm Nada Abbas</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Robotics Software Developer and An Erasmus Mundus Joint Master's Scholar in Intelligent Field Robotic Systems holder</h3>
-
+<h3 align="center">Senior AI devoloper at Avemoy</h3>
+- ⚡ Robotics Software Developer and An Erasmus Mundus Joint Master's Scholar in Intelligent Field Robotic Systems holder
 - 🔭 I’m currently working on improving my master thesis further and getting it ready for publication.
 - 🌱 I’m currently learning ROS2.
 - 📫 How to reach me: **n.elsayed@nu.edu.eg**
-- ⚡ Fun fact: I love poring over animal-related articles and how robotics can be inspired by them.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
