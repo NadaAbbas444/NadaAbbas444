@@ -1,10 +1,10 @@
-<h1 align="center"><b>Hi, I'm Nada Abbas</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Senior AI developer at Avemoy</h3>
+<h1 align="center"><b>Hi, I'm Nada Abbas</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">Senior AI Developer at Avemoy</h3>
 
-- ⚡  An Erasmus Mundus Joint Master's Scholar in Intelligent Field of Robotic Systems (IFROS) holder
-- 🔭 I’m currently working on improving my master thesis further and getting it ready for publication.
-- 🌱 I’m currently learning ROS2.
-- 📫 How to reach me: **n.elsayed@nu.edu.eg**
+- ⚡  Erasmus Mundus Joint Master’s Scholar in Intelligent Field Robotic Systems (IFRoS)
+- 🔭 Currently enhancing my skills in building React apps and working with FastAPI tools
+- 🌱 Actively learning and working with ROS2
+- 📫 Reach out to me at: **Nada.Abbas@Avemoy.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
