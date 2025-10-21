@@ -3,7 +3,6 @@
 
 - ⚡  Erasmus Mundus Joint Master’s Scholar in Intelligent Field Robotic Systems (IFRoS)
 - 🔭 Currently enhancing my skills in building React apps and working with FastAPI tools
-- 🌱 Actively learning and working with ROS2
 - 📫 Reach out to me at: **Nada.Abbas@Avemoy.com**
 
 <h3 align="left">Connect with me:</h3>
